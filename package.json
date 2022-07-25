@@ -1,0 +1,14 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "learning unit testing using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Monaf Daod",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
